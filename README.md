@@ -1,2 +1,2 @@
 # Chat
-Small programs for chatting with Java, including the client and the server 
+Small programs that can be chatted, including the client and the server 
